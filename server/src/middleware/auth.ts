@@ -19,9 +19,9 @@ export const authenticateToken = (req: Request, res: Response, next: NextFunctio
         return res.sendStatus(403);
       }
       req.user = user as JwtPayload;
-      return next(); // Call the next middleware function
+      return next();
     });
   } else {
-    res.sendStatus(401); // Send unauthorized status if no authorization header is present
+    res.sendStatus(401);
   }
 };
