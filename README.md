@@ -20,9 +20,9 @@
   ## Usage
   Log in to the kanban board with one of the pre-loaded logins:
 
-  User: JollyGuru
-  User: SunnyScribe
-  User: RadiantComet
+  - User: JollyGuru
+  - User: SunnyScribe
+  - User: RadiantComet
 
   The password for all three is "password".
 
