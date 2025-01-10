@@ -1,5 +1,5 @@
 # Krazy Kanban Board
-  - ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   - Deployed: [Krazy Kanban Board](https://one4-react-kanban-board.onrender.com)
 
   ## Description
