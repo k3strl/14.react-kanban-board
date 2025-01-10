@@ -26,10 +26,10 @@
 
   The password for all three is "password".
 
-  Once logged in, you will see cards arranged in three lanes - "To Do", "In-Progress", and "Done". Cards cam be created, edited, and deleted.
+  Once logged in, you will see cards arranged in three lanes - "To Do", "In-Progress", and "Done". Cards can be created, edited, and deleted.
 
   ## Credits
-  Starter code provided by edX/BCS. Instructor's and TAs' time has been graciously donated to assist. Some help given with the XPert Learning Bot and ChatGPT.
+  Starter code provided by edX/BCS. All missing code was written by Nic Blaize. The BCS XPert Learning Bot and ChatGPT both provided some assistance. Instructor's and TAs' time was also graciously donated to help troubleshoot the deployment onto Render. 
 
   ## License
   This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) [MIT](https://opensource.org/licenses/MIT) license.
