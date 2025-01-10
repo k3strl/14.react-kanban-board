@@ -1,6 +1,6 @@
 # Krazy Kanban Board
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  Deployed: [Krazy Kanban Board](https://one4-react-kanban-board.onrender.com)
+  - ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  - Deployed: [Krazy Kanban Board](https://one4-react-kanban-board.onrender.com)
 
   ## Description
   Krazy Kanban is a virtual kanban board, where tasks are displayed on a project board, organized into columns titled "To Do", "In Progress", and "Done". Each column is filled with cards that represent individual tasks, which are moved between the columns as the tasks are worked on and completed. This allows agile software teams to easily visualize tasks  and content, and get insight into an entire project's status.
